@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-03T21:37:26 CST" name="Default suite" finished-at="2023-03-03T21:40:11 CST" duration-ms="165276">
+    <groups>
+    </groups>
+    <test started-at="2023-03-03T21:37:26 CST" name="Default test" finished-at="2023-03-03T21:40:11 CST" duration-ms="165276">
+      <class name="CovidData.HospitalData">
+        <test-method signature="LoadPage()[pri:1, instance:CovidData.HospitalData@43dac38f]" started-at="2023-03-03T21:37:26 CST" name="LoadPage" finished-at="2023-03-03T21:37:32 CST" duration-ms="5546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadPage -->
+        <test-method signature="LoadAllData()[pri:2, instance:CovidData.HospitalData@43dac38f]" started-at="2023-03-03T21:37:32 CST" name="LoadAllData" finished-at="2023-03-03T21:37:47 CST" duration-ms="15563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadAllData -->
+        <test-method signature="DisplayData()[pri:3, instance:CovidData.HospitalData@43dac38f]" started-at="2023-03-03T21:37:47 CST" name="DisplayData" finished-at="2023-03-03T21:40:11 CST" duration-ms="144075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisplayData -->
+      </class> <!-- CovidData.HospitalData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
